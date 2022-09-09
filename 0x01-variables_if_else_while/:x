@@ -4,8 +4,10 @@
  * main - prints numbers from 0 - 9
  *
  * Description - prints in base 10 starting from 0
- * Return:return to the main
+ *
+ * Return : the return value of main here 
  */
+
 int main(void)
 {
 int num;

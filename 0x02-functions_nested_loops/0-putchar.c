@@ -3,7 +3,7 @@
 /*
  * main - print putchar
  *
- * Description-main print putchar
+ * Description- return to main
  *
  * return: 0
  */
